@@ -1,18 +1,4 @@
-**Dr BR Ambedkar National institute of Technology**
 
-**Jalandhar**
-
-> **DBMS LAB PROJECT REPORT**
->
-> <img src="media\image1.jpeg" style="width:3.625in;height:3.625in" />
-
-Topic: Developing a database management system for an ecommerce webapp
-based on Django Rest framework in Full Stack
-
-Submitted By: Submitted to:
-
-Anubhav Gupta : 19124014 Dr Amritpal Singh  
-Ayush Gupta : 19124020
 
 **Introduction:**
 
