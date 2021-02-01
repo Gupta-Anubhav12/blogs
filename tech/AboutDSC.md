@@ -73,3 +73,15 @@ DSC NITJ keeps on holding various events from time to time which range from tech
     Inductions are held every year for second and third year students <br>
 
 
+    ## DSC Leads
+    ---
+    Mr Adamya Mishra (2020)
+
+    [![pp.jpg](https://i.postimg.cc/kMx3zXVC/pp.jpg)](https://postimg.cc/jCdFJTQ3)
+    
+    ---
+
+    Mr. Arsh Goal (2019)
+    
+
+    [![1607798869886.jpg](https://i.postimg.cc/D0sxJZXc/1607798869886.jpg)](https://postimg.cc/YLr6Tt84)
