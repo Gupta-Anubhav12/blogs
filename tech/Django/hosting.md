@@ -94,7 +94,7 @@ There are multiple blog posts and tutorials already available for Django Hosting
      - ``` sudo systemctl start gunicorn.socket```
      - ``` sudo systemctl enable gunicorn.socket ```
      - ``` sudo systemctl daemon-reload```
-     - ``` sudo systemclt restart gunicorn``` 
+     - ``` sudo systemctl restart gunicorn``` 
 ---
 Now we will configure the final file for nginx web server 
  - we shall make a file with following command
@@ -127,7 +127,7 @@ Now we will configure the final file for nginx web server
         - we now check configuration for errors
          -   ``` nginx -t ```
          - we should give firewall access for nginx
-         - ```sudo allow 'nginx full' ```
+         - ```sudo ufw allow 'nginx full' ```
 - if it shows success we are good to go, just restart the servers and we are live for love of Django 
 -   ``` sudo systemctl restart nginx```
 - ``` sudo systemctl restart gunicorn```
