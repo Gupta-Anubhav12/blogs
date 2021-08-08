@@ -11,7 +11,7 @@ There are multiple blog posts and tutorials already available for Django Hosting
 - Set up dependencies 
   - ```sudo apt-get update```
   - ```sudo apt-get install python3-pip python3-dev nginx```
-  - ```sudo apt install git-all```
+  - ```sudo apt install git```
 - Set Up virtual Environment 
   - ``` sudo -H pip3 install --upgrade pip```
   - ```sudo -H pip3 install virtualenv```
